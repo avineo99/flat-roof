@@ -163,14 +163,11 @@ h1, .h1{
     background-color: transparent;
     border-color: #fff;
 }
-.btn-dark{
+.btn-light:hover {
     color: #fff;
-    background-color: #000;
-    border-color: #000;
-}
-.btn-dark:hover{
-    color: #000;
-    background-color: transparent;
+    background-color: #FF7A00;
+    border-color: #FF7A00;
+
 }
 
 
@@ -255,7 +252,9 @@ h1, .h1{
     font-family: "Poppins", sans-serif;
 }
 
-
+.serv-text a:hover {
+    color: #000 !important;
+}
 
 
 
