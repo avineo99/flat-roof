@@ -308,6 +308,7 @@ button#ScrollToTop:hover{
     background: #000;
     color: #fff;
 }
+
 @media(max-width:1600px){
     .site-logo {
         max-width: 350px;
