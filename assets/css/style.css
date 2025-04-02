@@ -256,7 +256,9 @@ h1, .h1{
     color: #000 !important;
 }
 
-
+.footer-links ul li a:hover {
+    color: #ff7a00;
+}
 
 
 
