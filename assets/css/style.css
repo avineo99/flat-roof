@@ -259,7 +259,9 @@ h1, .h1{
 .footer-links ul li a:hover {
     color: #ff7a00;
 }
-
+.roof-text a:hover {
+    color: #000 !important;
+}
 
 
 .testimonial-stars i {
